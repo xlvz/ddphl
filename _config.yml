@@ -1,0 +1,84 @@
+###############################################################################
+# METADATA PRO HLAVIČKU
+###############################################################################
+title: Dobrovolná databáze přírodovědně hodnotných lokalit
+description: 
+owner: ČSOP ARION corporation
+first_published: 2018 
+email: your-email@domain.com
+baseurl: ""
+url: "http://xlvz.mzf.cz" # the base hostname & protocol for your site
+###############################################################################
+# INFO K LOKALITÁM
+# * dodejte podněty k novým položkám
+###############################################################################
+kat_uzemi: # obec
+okres: # trochu zastaralé
+kraj: 
+oblast: # pracovní oblast
+fytoce_okrsek: Co já vím? # fytocenologický okresek
+podklad: slíny České křídy # geologie
+pedologie: rankery, slánce # půdy
+nalez_kytky: kytka obecná (Kytka vulgaris) # zelená plíseň na lokalitě
+zvir: modrásek černoskvrnný (Phengaris arion), kudlunka bezbožná (Mantis arelegiosa) # fauna lokality
+###############################################################################
+# KONTAKTY
+###############################################################################
+social:
+  github: https://github.com/<username>
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+###############################################################################
+# NASTAVENÍ SAMOTNÉHO JEKYLLU
+###############################################################################
+markdown: kramdown
+#sass:
+#  style: compressed
+###############################################################################
+# BLOK POD HLAVIČKOU
+###############################################################################
+infotitulek1: WTF?
+infotitulek1kom: Databáze lokalit jež jsou v péči ochranářských organizací, je donrovolná. Pokud chcete přidat lokalitu, zašlemevám formulář, který obratem zašlete zpět vyplněný a s přiloženými fotkami. Formát bude umožnovat zpracování v NoSQL. Časem snad dojde k v rozvoji projektu do cloudových technolgiií (jako je OpenStack)
+###############################################################################
+# BLOK S MINIATURAMI OBRÁZKŮ
+###############################################################################
+imgA: "„Radiměřské motýlí království“"
+imgAkom: Krátký popisek lokality. <a href="http://struhar.cloud/rkralovstvi/index.html" alt="">Odkaz na prezentaci lokality</a>
+img2: Radiměř - komplex
+img2kom: Text k druhému zastavení<a href="http://struhar.cloud/radimerkomplex/index.html" alt="">Odkaz na prezentaci lokality</a>
+img3: Radimersko
+img3com: Text k třetímu zastavení<a href="http://struhar.cloud/radimersko/index.html" alt="">Odkaz na prezentaci lokality</a>
+img4: Sad
+img4com: Text k třetímu zastavení<a href="http://struhar.cloud/sad/index.html" alt="">Odkaz na prezentaci lokality</a>
+img5: "„Karpaty“"
+img5com: Text k třetímu zastavení<a href="http://struhar.cloud/karpaty/index.html" alt="">Odkaz na prezentaci lokality</a>
+img6: Naše loalita šesté
+img7com: Text k sedmému zastavení
+img7: Kundlančí svatosánek, továrna na modlení
+###############################################################################
+# DVOUSLOUPCOVÝ BLOK S BLEDĚ ZELENÝM PODKLADEM, BEZ OBRÁZKŮ S FONT-AWESOME
+###############################################################################
+Three: Dokumentace & poznánky o péči o lokality
+ThreeOne: Co předchází prvném zásahum na lokalitě
+ThreeOneCom: Text k nadpisu vlevo nahoře. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm
+ThreeTwo: Jak probíhá kosení
+ThreeTwoCom: Nadpis vpravo nahoře. Ikonky podle font-awesome
+ThreeThree: Slovníček ochranářských pojmů
+ThreeThreeCom: Vysvětlení pojmů jako PPK a/nebo VKP. <a href="http://struhar.cloud/stezka/generic.html" alt="">Odkaz na wiki</a> 
+ThreeFour: Poznánmky pro vlastníky a úřady
+ThreeFourCom: Text k nadpisu vpravo ve středu
+ThreeFive: Naše filozofie
+ThreeFiveCom: Popis hlavní motivace, hodnot. Naše vzory.
+ThreeSix: Základní pravidla jak se chovat na lokalitě
+ThreeSixCom: Text k nadpisu vpravo dole
+###############################################################################
+# PATIČKA
+# * box „propagovat“
+# * box „podpořte nás“
+###############################################################################
+CTA: | # nadpisu
+  Nadpis k patce
+CTACom: | #komentar
+  Text k patce
