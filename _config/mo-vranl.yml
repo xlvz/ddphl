@@ -1,23 +1,15 @@
-#popis jedné z lokalit po rozkliknutí odkazu v seznamu
-
-#Lokalita: 
->Radiměr - Sad
-
-Výhřevné stráně rozptýlené v okolí obce Vranová Lhota, zahrnují i stráò s plynulým přechodem do mokřadu.
-
 GPS: 
-
-Z-rybníček - 49.7195450N, 16.8098158E, 49.7195450N, 16.8098158E
-Z-spáleniště - 49°43'19.127"N, 16°48'33.580"E, 49.7219797N, 16.8093278E
-SZ-habry - 49°43'20.276"N, 16°48'49.300"E, 49.7222989N, 16.8136944E
-SZ-průsek - 49°43'22.623"N, 16°49'5.213"E, 49.7229508N, 16.8181147E
-S-stráòka pod lesem - 49°43'25.769"N, 16°49'12.938"E, 49.7238247N, 16.8202606E
-S-stáò u obce - 49°43'9.220"N, 16°49'32.144"E, 49.7192278N, 16.8255956E
+    Z-rybníček: - 49.7195450N, 16.8098158E, 49.7195450N, 16.8098158E
+    Z-spáleniště: 49°43'19.127"N, 16°48'33.580"E, 49.7219797N, 16.8093278E
+    SZ-habry: 49°43'20.276"N, 16°48'49.300"E, 49.7222989N, 16.8136944E
+    SZ-průsek: 49°43'22.623"N, 16°49'5.213"E, 49.7229508N, 16.8181147E
+    S-stráňka pod lesem: - 49°43'25.769"N, 16°49'12.938"E, 49.7238247N, 16.8202606E
+    S-stáň u obce: - 49°43'9.220"N, 16°49'32.144"E, 49.7192278N, 16.8255956E
 
 
 Členitost terénu a plynulé přechody různých faktorů. To je další proměnná, která určuje druhovou bohatost krajiny spolu s klimatem, geologickým podkladem, typy 
 hospodaření, druhovým zásobníkem krajiny (tzv. species pool) a dalšími vlivy. Pro vysvětlení, jak působí přechod, neboli gradient, faktorů na množství druhů si 
-můžeme uvést druhově bohatou jižní stráò, kde jsou zásadní dva na sobě závislé faktory, sklon svahu a vhkos půdy. 
+můžeme uvést druhově bohatou jižní stráň, kde jsou zásadní dva na sobě závislé faktory, sklon svahu a vhkos půdy. 
 Čím větší sklon, tím větší odtok vody a výpar, díky přímějšímu dopadu slunečního záření = sucho. Svah většinou začíná rovnou a mírně stoupající partií často 
 od nějakého vodního toku, kde jsou na vlhké a někdy i zaplavované půdy vázány náročnější druhy rostlin a tudíž i hmyz, který se jimi živí. Směrem od vodního toku svah 
 nabývá vyššího sklonu, hladina spodní vody klesá a nejvlhkomilnější druhy mizí (př. pcháč zelinný). Zde porost není tak bujný a objevují se druhy, které nepřežijí 
@@ -78,7 +70,7 @@ Houby
 -
 Bezobratlí
 -hnědásek květelový (Melitaea didyma)
--okáč voòavkový (Brintesia circe)
+-okáč voňavkový (Brintesia circe)
 -modrásek černoskvrnný (Phengaris arion)
 -modrásek vikvicový (Polyommatus coridon)
 -saranče vrzavá (Psophus stridulus)
@@ -96,8 +88,8 @@ Komentář návštěvníka - viděl jsem, našel jsem, líbí se mi, udělejte..
 ###############################################################################
 # METADATA PRO HLAVIČKU
 ###############################################################################
-title: Dobrovolná databáze přírodovědně hodnotných lokalit
-description: 
+title: Radiměr - Sad
+description: Výhřevné stráně rozptýlené v okolí obce Vranová Lhota, zahrnují i stráň s plynulým přechodem do mokřadu.
 owner: ČSOP ARION corporation
 first_published: 2018 
 email: your-email@domain.com
@@ -112,10 +104,10 @@ okres: # trochu zastaralé
 kraj: 
 oblast: # pracovní oblast
 fytoce_okrsek: Co já vím? # fytocenologický okresek
-podklad: slíny České křídy # geologie
-pedologie: rankery, slánce # půdy
+podklad: ""# geologie
+pedologie: ""# půdy
 nalez_kytky: kytka obecná (Kytka vulgaris) # zelená plíseň na lokalitě
-fauna: modrásek černoskvrnný (Phengaris arion), kudlunka bezbožná (Mantis arelegiosa) # fauna lokality
+fauna: ""# fauna lokality
 ###############################################################################
 # KONTAKTY
 ###############################################################################
@@ -134,41 +126,41 @@ markdown: kramdown
 ###############################################################################
 # BLOK POD HLAVIČKOU
 ###############################################################################
-info1: WTF?
-info1c: Databáze lokalit jež jsou v péči ochranářských organizací, je donrovolná. Pokud chcete přidat lokalitu, zašlemevám formulář, který obratem zašlete zpět vyplněný a s přiloženými fotkami. Formát bude umožnovat zpracování v NoSQL. Časem snad dojde k v rozvoji projektu do cloudových technolgiií (jako je OpenStack)
+info1: "Výhřevné stráně rozptýlené v okolí obce Vranová Lhota, zahrnují i stráň s plynulým přechodem do mokřadu."
+info1c: ""
 ###############################################################################
 # BLOK S MINIATURAMI OBRÁZKŮ
 ###############################################################################
-img1: "„Radiměřské motýlí království“"
-img1c: Krátký popisek lokality. <a href="http://struhar.cloud/rkralovstvi/index.html" alt="">Odkaz na prezentaci lokality</a>
-img2: Radiměř - komplex
-img2c: Text k druhému zastavení<a href="http://struhar.cloud/radimerkomplex/index.html" alt="">Odkaz na prezentaci lokality</a>
-img3: Radimersko
-img3c: Text k třetímu zastavení<a href="http://struhar.cloud/radimersko/index.html" alt="">Odkaz na prezentaci lokality</a>
-img4: Sad
-mg4c: Text k třetímu zastavení<a href="http://struhar.cloud/sad/index.html" alt="">Odkaz na prezentaci lokality</a>
-img5: "„Karpaty“"
-img5c: Text k třetímu zastavení<a href="http://struhar.cloud/karpaty/index.html" alt="">Odkaz na prezentaci lokality</a>
-img6: Naše loalita šesté
+img1: ""
+img1c: ""
+img2: ""
+img2c: ""
+img3: ""
+img3c: ""
+img4: ""
+mg4c: 
+img5: ""
+img5c: ""
+img6: ""
 img6c: ""
-img7: Kundlančí svatosánek, továrna na modlení
-img7c: Text k sedmému zastavení
+img7: ""
+img7c: ""
 ###############################################################################
 # DVOUSLOUPCOVÝ BLOK S BLEDĚ ZELENÝM PODKLADEM, BEZ OBRÁZKŮ S FONT-AWESOME
 ###############################################################################
-box0: Dokumentace & poznánky o péči o lokality
-box1: Co předchází prvném zásahum na lokalitě
-box1c: Text k nadpisu vlevo nahoře. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm
-box2: Jak probíhá kosení
-box2c: Nadpis vpravo nahoře. Ikonky podle font-awesome
-box3: Slovníček ochranářských pojmů
-box3c: Vysvětlení pojmů jako PPK a/nebo VKP. <a href="http://struhar.cloud/stezka/generic.html" alt="">Odkaz na wiki</a> 
-box4: Poznánmky pro vlastníky a úřady
-box4c: Text k nadpisu vpravo ve středu
-box5: Naše filozofie
-box5c: Popis hlavní motivace, hodnot. Naše vzory.
-box6: Základní pravidla jak se chovat na lokalitě
-box6c: Text k nadpisu vpravo dole
+box0: ""
+box1: ""
+box1c: ""
+box2: ""
+box2c: ""
+box3: ""
+box3c: ""
+box4: ""
+box4c: ""
+box5: ""
+box5c: ""
+box6: ""
+box6c: ""
 ###############################################################################
 # PATIČKA
 # * box „propagovat“

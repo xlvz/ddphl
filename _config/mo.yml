@@ -21,7 +21,7 @@ osobně pomoc a my jim za to srdečně děkujeme.
 ---
 Ohrožení
 
-Zarůstání náletovými dřevinami, zalesòování a dlouhodobá absence pastvy a seče, vedoucí k převažování konkurenčně silných rostlin.
+Zarůstání náletovými dřevinami, zalesňování a dlouhodobá absence pastvy a seče, vedoucí k převažování konkurenčně silných rostlin.
 
 ---
 Lokality
@@ -36,7 +36,7 @@ Stráně Vranové Lhoty
 ...###############################################################################
 # METADATA PRO HLAVIČKU
 ###############################################################################
-title: Dobrovolná databáze přírodovědně hodnotných lokalit
+title: # Dobrovolná databáze přírodovědně hodnotných lokalit
 description: 
 owner: ČSOP ARION corporation
 first_published: 2018 
@@ -52,10 +52,10 @@ okres: # trochu zastaralé
 kraj: 
 oblast: # pracovní oblast
 fytoce_okrsek: Co já vím? # fytocenologický okresek
-podklad: slíny České křídy # geologie
-pedologie: rankery, slánce # půdy
+podklad: ""# geologie
+pedologie: ""# půdy
 nalez_kytky: kytka obecná (Kytka vulgaris) # zelená plíseň na lokalitě
-fauna: modrásek černoskvrnný (Phengaris arion), kudlunka bezbožná (Mantis arelegiosa) # fauna lokality
+fauna: ""# fauna lokality
 ###############################################################################
 # KONTAKTY
 ###############################################################################
@@ -74,41 +74,41 @@ markdown: kramdown
 ###############################################################################
 # BLOK POD HLAVIČKOU
 ###############################################################################
-info1: WTF?
-info1c: Databáze lokalit jež jsou v péči ochranářských organizací, je donrovolná. Pokud chcete přidat lokalitu, zašlemevám formulář, který obratem zašlete zpět vyplněný a s přiloženými fotkami. Formát bude umožnovat zpracování v NoSQL. Časem snad dojde k v rozvoji projektu do cloudových technolgiií (jako je OpenStack)
+info1: ""
+info1c: ""
 ###############################################################################
 # BLOK S MINIATURAMI OBRÁZKŮ
 ###############################################################################
-img1: "„Radiměřské motýlí království“"
-img1c: Krátký popisek lokality. <a href="http://struhar.cloud/rkralovstvi/index.html" alt="">Odkaz na prezentaci lokality</a>
-img2: Radiměř - komplex
-img2c: Text k druhému zastavení<a href="http://struhar.cloud/radimerkomplex/index.html" alt="">Odkaz na prezentaci lokality</a>
-img3: Radimersko
-img3c: Text k třetímu zastavení<a href="http://struhar.cloud/radimersko/index.html" alt="">Odkaz na prezentaci lokality</a>
-img4: Sad
+img1: ""
+img1c: ""
+img2: ""
+img2c: ""
+img3: ""
+img3c: ""
+img4: ""
 mg4c: Text k třetímu zastavení<a href="http://struhar.cloud/sad/index.html" alt="">Odkaz na prezentaci lokality</a>
-img5: "„Karpaty“"
-img5c: Text k třetímu zastavení<a href="http://struhar.cloud/karpaty/index.html" alt="">Odkaz na prezentaci lokality</a>
-img6: Naše loalita šesté
+img5: ""
+img5c: ""
+img6: ""
 img6c: ""
-img7: Kundlančí svatosánek, továrna na modlení
-img7c: Text k sedmému zastavení
+img7: ""
+img7c: ""
 ###############################################################################
 # DVOUSLOUPCOVÝ BLOK S BLEDĚ ZELENÝM PODKLADEM, BEZ OBRÁZKŮ S FONT-AWESOME
 ###############################################################################
-box0: Dokumentace & poznánky o péči o lokality
-box1: Co předchází prvném zásahum na lokalitě
-box1c: Text k nadpisu vlevo nahoře. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm
-box2: Jak probíhá kosení
-box2c: Nadpis vpravo nahoře. Ikonky podle font-awesome
-box3: Slovníček ochranářských pojmů
-box3c: Vysvětlení pojmů jako PPK a/nebo VKP. <a href="http://struhar.cloud/stezka/generic.html" alt="">Odkaz na wiki</a> 
-box4: Poznánmky pro vlastníky a úřady
-box4c: Text k nadpisu vpravo ve středu
-box5: Naše filozofie
-box5c: Popis hlavní motivace, hodnot. Naše vzory.
-box6: Základní pravidla jak se chovat na lokalitě
-box6c: Text k nadpisu vpravo dole
+box0: ""
+box1: ""
+box1c: ""
+box2: ""
+box2c: ""
+box3: ""
+box3c: ""
+box4: ""
+box4c: ""
+box5: ""
+box5c: ""
+box6: ""
+box6c: ""
 ###############################################################################
 # PATIČKA
 # * box „propagovat“

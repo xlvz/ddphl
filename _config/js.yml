@@ -17,10 +17,10 @@ okres: # trochu zastaralé
 kraj: 
 oblast: # pracovní oblast
 fytoce_okrsek: Co já vím? # fytocenologický okresek
-podklad: slíny České křídy # geologie
-pedologie: rankery, slánce # půdy
+podklad: ""# geologie
+pedologie: ""# půdy
 nalez_kytky: kytka obecná (Kytka vulgaris) # zelená plíseň na lokalitě
-fauna: modrásek černoskvrnný (Phengaris arion), kudlunka bezbožná (Mantis arelegiosa) # fauna lokality
+fauna: ""# fauna lokality
 ###############################################################################
 # KONTAKTY
 ###############################################################################
@@ -39,8 +39,8 @@ markdown: kramdown
 ###############################################################################
 # BLOK POD HLAVIČKOU
 ###############################################################################
-info1: O lokalitě
-info1c: | 
+info1: ""
+info1c: |
   Roztroušené lokality v okolí Štědrákovy Lhoty, místní části obce Ruda nad Moravou, v Olomouckém kraji. Prudké i mírnější části strání, rozptýlené v hornaté krajině, zajímavé výskytem xerotermní vegetace na jižně exponovaných svazích.
   Štědrákova Lhota leží v geologicky zajímavé oblasti metamorfovaných hornin, jako jsou amfibolity a hadce. Na hadec, odborně serpentinit, je vázáno několik vzácných druhů rostlin, které se vyskytují jen na našem území (tzv. endemity ČR). Mezi ně patří kapradiny sleziník hadcový a s. nepravý, či hvozdík kartouzek hadcový. Žádný z těchto druhů však nebyl na našich lokalitách zjištěn. Hornatá krajina osady Štědrákova Lhota, dosud nevydala tajemství v podobě vzácných chráněných rostlin. Z botanického hlediska, je však zajímavý výskyt teplomilných rostlin, jako je úročník bolhoj či chrpa čekánek v oblasti, kde vrcholy okolních kopců dosahují i přes tisíc metru a ve vzdálenosti dvaceti kilometru se nacházejí nejvyšší polohy Kralického Sněžníku a Hrubého Jeseníku. Nejvzácnější zjištěnou rostlinou, které stráně obývá je orchidej vemeník dvoulistý. V poslední době se až sem rozšířila kudlanka nábožná a zdejší stráně jsou tak unikátním místem, kde je možné vyfotografovat kudlanku s Vysokou Holí v pozadí.  
   O lokality se staráme především kvůli výskytu kriticky ohroženého modráska černoskvrnného - Phengaris arion, který dal název naší organizaci.  Štědrákova Lhota je zřejmě posledním místem jeho výskytu v podhůří Jeseníků. 
@@ -48,8 +48,8 @@ info1c: |
 ###############################################################################
 # BLOK S MINIATURAMI OBRÁZKŮ
 ###############################################################################
-img1: Stráně Štědrákovy Lhoty
-img1c: Stráně Štědrákovy Lhoty
+img1: ""
+img1c: ""
 #img2: Radiměř - komplex
 #img2c: Text k druhému zastavení<a href="http://struhar.cloud/radimerkomplex/index.html" alt="">Odkaz na prezentaci lokality</a>
 #img3: Radimersko
@@ -65,13 +65,13 @@ img1c: Stráně Štědrákovy Lhoty
 ###############################################################################
 # DVOUSLOUPCOVÝ BLOK S BLEDĚ ZELENÝM PODKLADEM, BEZ OBRÁZKŮ S FONT-AWESOME
 ###############################################################################
-box0: Ohrožení
-box1: Zarůstání náletovými dřevinami.
-box1c: 
-box2: Zalesňování
-box2c: 
-box3: Dlouhodobá absence pastvy a seče
-box3c: Vede k převažování konkurenčně silných rostlin.
+box0: ""
+box1: ""
+box1c: ""
+box2: ""
+box2c: ""
+box3: ""
+box3c: ""
 #box4: 
 #box4c:
 #box5: 
