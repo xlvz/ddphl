@@ -1,0 +1,90 @@
+###############################################################################
+# METADATA PRO HLAVIČKU
+###############################################################################
+title: Štědrákova Lhota a okolí
+description: 
+owner: ČSOP ARION corporation
+first_published: 2018 
+email: your-email@domain.com
+baseurl: ""
+url: "http://xlvz.mzf.cz" # the base hostname & protocol for your site
+###############################################################################
+# INFO K LOKALITÁM
+# * dodejte podněty k novým položkám
+###############################################################################
+kat_uzemi: # obec
+okres: # trochu zastaralé
+kraj: 
+oblast: # pracovní oblast
+fytoce_okrsek: Co já vím? # fytocenologický okresek
+podklad: slíny České křídy # geologie
+pedologie: rankery, slánce # půdy
+nalez_kytky: kytka obecná (Kytka vulgaris) # zelená plíseň na lokalitě
+fauna: modrásek černoskvrnný (Phengaris arion), kudlunka bezbožná (Mantis arelegiosa) # fauna lokality
+###############################################################################
+# KONTAKTY
+###############################################################################
+social:
+  github: https://github.com/<username>
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+###############################################################################
+# NASTAVENÍ SAMOTNÉHO JEKYLLU
+###############################################################################
+markdown: kramdown
+#sass:
+#  style: compressed
+###############################################################################
+# BLOK POD HLAVIČKOU
+###############################################################################
+info1: O lokalitě
+info1c: | 
+  Roztroušené lokality v okolí Štědrákovy Lhoty, místní části obce Ruda nad Moravou, v Olomouckém kraji. Prudké i mírnější části strání, rozptýlené v hornaté krajině, zajímavé výskytem xerotermní vegetace na jižně exponovaných svazích.
+  Štědrákova Lhota leží v geologicky zajímavé oblasti metamorfovaných hornin, jako jsou amfibolity a hadce. Na hadec, odborně serpentinit, je vázáno několik vzácných druhů rostlin, které se vyskytují jen na našem území (tzv. endemity ČR). Mezi ně patří kapradiny sleziník hadcový a s. nepravý, či hvozdík kartouzek hadcový. Žádný z těchto druhů však nebyl na našich lokalitách zjištěn. Hornatá krajina osady Štědrákova Lhota, dosud nevydala tajemství v podobě vzácných chráněných rostlin. Z botanického hlediska, je však zajímavý výskyt teplomilných rostlin, jako je úročník bolhoj či chrpa čekánek v oblasti, kde vrcholy okolních kopců dosahují i přes tisíc metru a ve vzdálenosti dvaceti kilometru se nacházejí nejvyšší polohy Kralického Sněžníku a Hrubého Jeseníku. Nejvzácnější zjištěnou rostlinou, které stráně obývá je orchidej vemeník dvoulistý. V poslední době se až sem rozšířila kudlanka nábožná a zdejší stráně jsou tak unikátním místem, kde je možné vyfotografovat kudlanku s Vysokou Holí v pozadí.  
+  O lokality se staráme především kvůli výskytu kriticky ohroženého modráska černoskvrnného - Phengaris arion, který dal název naší organizaci.  Štědrákova Lhota je zřejmě posledním místem jeho výskytu v podhůří Jeseníků. 
+  Po návštěvě Štědrákovy Lhoty je těžké vyhnout se použití superlativů ve spojitosti se zdejší krajinou. Ale bez velkých slov se jedná o nádherné místo, které hladí po duši. Jelikož se zde nachází lyžařský areál i letní rekreační střediska, rozhodli jsme se vybudovat turistickou naučnou stezku, která by návštěvníkům přiblížila život zdejší krajiny. Tato stezka vznikla za významné pomoci obce Ruda nad Moravou i místních lidí, jimž děkujeme za nemalou pomoc. Rovněž děkujeme místním obyvatelům za ochotu pomoci při záchraně zdejších přírodních hodnot! 
+###############################################################################
+# BLOK S MINIATURAMI OBRÁZKŮ
+###############################################################################
+img1: Stráně Štědrákovy Lhoty
+img1c: Stráně Štědrákovy Lhoty
+#img2: Radiměř - komplex
+#img2c: Text k druhému zastavení<a href="http://struhar.cloud/radimerkomplex/index.html" alt="">Odkaz na prezentaci lokality</a>
+#img3: Radimersko
+#img3c: Text k třetímu zastavení<a href="http://struhar.cloud/radimersko/index.html" alt="">Odkaz na prezentaci lokality</a>
+#img4: Sad
+#mg4c: Text k třetímu zastavení<a href="http://struhar.cloud/sad/index.html" alt="">Odkaz na prezentaci lokality</a>
+#img5: "„Karpaty“"
+#img5c: Text k třetímu zastavení<a href="http://struhar.cloud/karpaty/index.html" alt="">Odkaz na prezentaci lokality</a>
+#img6: Naše loalita šesté
+#img6c: ""
+#img7: Kundlančí svatosánek, továrna na modlení
+#img7c: Text k sedmému zastavení
+###############################################################################
+# DVOUSLOUPCOVÝ BLOK S BLEDĚ ZELENÝM PODKLADEM, BEZ OBRÁZKŮ S FONT-AWESOME
+###############################################################################
+box0: Ohrožení
+box1: Zarůstání náletovými dřevinami.
+box1c: 
+box2: Zalesňování
+box2c: 
+box3: Dlouhodobá absence pastvy a seče
+box3c: Vede k převažování konkurenčně silných rostlin.
+#box4: 
+#box4c:
+#box5: 
+#box5c: 
+#box6: 
+#box6c: 
+###############################################################################
+# PATIČKA
+# * box „propagovat“
+# * box „podpořte nás“
+###############################################################################
+pat: | # nadpisu
+  Nadpis k patce
+patc: | #komentar
+
+

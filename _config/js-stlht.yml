@@ -1,0 +1,95 @@
+###############################################################################
+# METADATA PRO HLAVIČKU
+###############################################################################
+title: Stráně Štědrákovy Lhoty
+description: Převážně jižní stráně při jihozápadním okraji Štědrákovy Lhoty. 
+owner: ČSOP ARION corporation
+first_published: 2018 
+email: your-email@domain.com
+baseurl: ""
+url: "http://xlvz.mzf.cz" # the base hostname & protocol for your site
+###############################################################################
+# INFO K LOKALITÁM
+# * dodejte podněty k novým položkám
+###############################################################################
+kat_uzemi: # obec
+okres: # trochu zastaralé
+kraj: 
+oblast: # pracovní oblast
+gps: 50°1'9.755"N, 16°51'55.188"E # 50.0193764N, 16.8653300E
+fytoce_okrsek: # fytocenologický okresek
+podklad: # geologie
+pedologie: # půdy
+nalez_kytky: # zelená plíseň na lokalitě
+fauna: # fauna lokality
+# Nejzajímavější organismy
+rostliny: [vemeník dvoulistý (Platanthera bifolia)]
+houby:
+bezobratli: [bělásek hrachorový (Leptidea sinapis), modrásek černoskvrnný (Phengaris arion), ostruháček jilmový (Satyrium w-album), vřetenuška štírovníková (Zygaena angelicae), soumračník čárkovaný (Hesperia comma)]
+obratlovci:
+###############################################################################
+# KONTAKTY
+###############################################################################
+social:
+  github: https://github.com/<username>
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+###############################################################################
+# NASTAVENÍ SAMOTNÉHO JEKYLLU
+###############################################################################
+markdown: kramdown
+#sass:
+#  style: compressed
+###############################################################################
+# BLOK POD HLAVIČKOU
+###############################################################################
+info1: Převážně jižní stráně při jihozápadním okraji Štědrákovy Lhoty. 
+info1c: Něco vždy přichází a jiné je na ústupu. Už je to tak, že nových věcí, které jsou úspěšné a směle se šíří, se obáváme a to co nám mizí před očima se snažíme zoufale vzkřísit. V ochraně přírody je velká spousta příkladů takových situací a s oběma z nich je možné se setkat i ve Štědrákově Lhotě. 
+###############################################################################
+# BLOK S MINIATURAMI OBRÁZKŮ
+###############################################################################
+img1: 
+img1c: V okolí Štědrákovy Lhoty místy rostou bohaté porosty mateřídoušky, tj. živné rostliny kriticky ohroženého modráska černoskvrnného. Blízko vymření se ocitl nejen díky složitému životnímu cyklu, ke kterému potřebuje i jisté duhy mravenců, jejichž larvami se živí. Ale i kvůli krátkému životu (cca 5 dní) a nízká pohyblivost v krajině. 
+img2: 
+img2c: Jeho letové období trvá zhruba měsíc, takže se ve velmi slabé populaci stává, že se vylíhne jeden motýl několik dní po smrti motýla předchozího. Tomu se říká smůla.  Tito motýli se tak moc bojí, že se v krajině ztratí a mateřídoušku během krátké dospělosti nenajdou, že raději poletují na několika arech a vzdálí se jen výjimečně. 
+img3: 
+img3c: A tak se stalo ve Štědrákově Lhotě roku 2017, že v jeden den byly na lokalitě pozorování dva motýli, samec a samice. To by byla dobrá zpráva, jenže je dělila vzdálenost 400 metrů a díky zarůstání krajiny i nepřekonatelná překážka. Les! Tito motýly se zřejmě nikdy nepotkali a oba kroužili na svém kousku louky. Tomu už se snad smůla říct nedá. Podobně je na tom celá řada velmi ohrožených druhů. Specifické nároky na prostředí, složitý vývoj a nízká schopnost migrace.
+img4: 
+img4c: Příkladem opačného dění je kudlanka nábožná. Kdysi vzácný druh, za nímž se jezdilo až na stepy jižní Moravy, rok do roku překonává nově dobyté hranice. Je to velký dravec všeho, co je schopen uchopit a udržet. Dokáže poměrně dobře létat a za svůj život se přesunout o několik kilometrů. Jediným nárokem na krajinu jsou teplomilné nebo stepní trávníky, a jelikož kudlanka není závislá na živné rostlině, může obývat i náspy silnic, železnice nebo zarostlé fabriky. Jediný faktor, který tohoto predátora držel v panonských stepích, byla nejspíš teplota. Díky oteplování klimatu dokázala během několika desetiletí překročit celou Moravu, nyní obsazuje poslední výspy obranné bariéry českomoravského pomezí a směle atakuje širé nížiny východních Čech. Zda její přítomnost bude posledním hřebíčkem do rakve organismů na pokraji vymření, jako je právě modrásek černoskvrnný, nebo se bez větších problémů začlení do potravního řetězce, to ukáže čas. Není to zdaleka ojedinělí případ, před lety byl v podobné situaci křižák pruhovaný. Kdysi vzácný pavouk, pro kterého sběratele vážili dlouhou cestu, se rozšířil na tolik, že je dnes samozřejmou součástí našich luk. 
+img5: 
+img5c: Podobně je na tom i zlatohlávek tmavý. Dnes nejběžnější zlatohlávek, který byl v 80. letech 20. století považován za vyhynulého. Migrace a ústup druhů, v závislosti na měnících se přírodních podmínkách, je součástí přírodního dění a vývoje. Tento proces probíhá už od vzniku života a při představě tundry, která pokrývala českou kotlinu pouze před 10. tisíci lety, je zřejmé, že jsou tyto změny velmi rychlé a člověk je může během svého života nejen pozorovat, ale i ovlivnit. 
+img6: Kudlanka nábožná (Mantis religiosa) 
+img6c: Až 8 cm velký maskovaný dravec, smrtelně hbité loupeživé přední nohy a náruživá požíračka svých milenců. To je kudlanka. Dříve byla k vidění jen na jižní Moravě, dnes se šíří do všech teplých území naší republiky. Je možné ji spatřit v mnoha zbarveních od světle hnědé po tmavě zelenou.
+img7: Křižák pruhovaný (Argiope bruennichi) 
+img7c: Jeden z nejpestřejších křižáků u nás, má odstrašující zbarvení podobné vosám. Tato obrana však neskýtá nebezpečí, pouze jeho oblíbenému menu - kobylkám. V minulosti, se podobně jako kudlanka, vyskytoval jen na jižní Moravě, je tomu však zhruba 30 let od doby, kdy se stal běžným obyvatelem luk v celé ČR.
+img8: modrásek černoskvrnný (Phengaris arion)
+img8c: Kriticky ohrožených druh ČR a jeden z 15 nejohroženějších motýlů Evropy, je dnes naopak silně na ústupu. Vyhovují mu mizející pastviny s porosty mateřídoušky, živné rostliny jeho housenek. Housenky vydávají specifický feromon, pro lákání dvou druhů mravenců. Ti se domnívají, že jde o jejich larvu a odnesou ji do mraveniště.  Zde se housenka nenasytně živí larvami, až dorostou a vykuklí se, tehdy ztratí schopnost vylučovat feromon a motýlovi tak začíná závod s časem a pomstychtivými mravenci.  
+img9: zlatohlávek tmavý (Oxythyrea funesta)
+img9c: Drobný tmavě lesklý zlatohlávek byl od začátku minulého století pozorován, jako ustupující typicky stepní prvek. V 80. letech byl, po 30 letech bez jeho zjištění, prohlášen za vymřelého. Na první nález v Železných horách se, ale nečekalo dlouho a od roku 1987 bylo sledováno stále více nových lokalit. Zdá se, že se brouk přizpůsobil, nebo se změnili podmínky natolik, že je kromě stepí k vidění v podstatě kdekoliv mimo les a vysokých hor.
+###############################################################################
+# DVOUSLOUPCOVÝ BLOK S BLEDĚ ZELENÝM PODKLADEM, BEZ OBRÁZKŮ S FONT-AWESOME
+###############################################################################
+box0: Aktuální management
+box1: Jak se chovat na návštěvě 
+box1c: Dupej, spásej, ale motýly se jen kochej!
+box2: Přístup
+box2c: Lokalita je přístupná po staré cestě ze vsi. Místy je cesta sice těžko průchodná, ale staré ovocné stromy a jejich torza poskytují příjemnou atmosféru při procházce na zdejší teplomilné trávníky. Nemusíte se však obávat a úpěnlivě se držet stezky, Vaše kroky v lučním porostu jsou vítaným příspěvkem k péči, ve větší míře totiž přináší podobný prospěch, jako pastva. Nebojte se a dopřejte si piknik na výslunné stráni s výhledem na Jeseníky.
+box3: 
+box3c: 
+box4: 
+box4c: 
+box5: 
+box5c: 
+box6: 
+box6c: 
+###############################################################################
+# PATIČKA
+# * box „propagovat“
+# * box „podpořte nás“
+###############################################################################
+pat: | # nadpisu
+  Nadpis k patce
+patc: | #komentar
+  Text k patce
